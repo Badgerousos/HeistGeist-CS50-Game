@@ -1,3 +1,4 @@
+##### This project was made as the final project for the course [CS50 of harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science) 
 # HeistGeist
 ### [Project Youtube video](http://example.com)
 ## Description:
