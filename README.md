@@ -1,6 +1,6 @@
 ##### This project was made as the final project for the course [CS50 of harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science) 
 # HeistGeist
-### [Project Youtube video](http://example.com)
+### [Project Youtube video](https://youtu.be/vXXuCChbOMU)
 ## Description:
 **HeistGeist** is a top-down maze game that centers around a player character navigating through mazes diving deeper into increasingly dangerous and complex labyrinths for a prize well-worth the effort. The gameplay could be categorized as a rogue-like, but it has more in common with the likes of Pac-Man than spelunky for example. You take control of a skilled burglar making his way through a mansion and into heavily gaurded and forgotten depths no theif has dared to before.
 
